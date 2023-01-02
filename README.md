@@ -2,6 +2,9 @@
 
 This is a repository include Python Notebook for Bank customer churn data analysis. The task is to use the data from the dataset to answer a set of questions related to churn.
 
+## Code run
+
+Need to keep data and file in the same folder to run the Python notebook.
 
 ## Dataset
 The dataset contains the following columns:
