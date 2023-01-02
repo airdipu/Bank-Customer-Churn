@@ -1,5 +1,7 @@
 # Bank-Customer-Churn
-Bank Customer Churn data Analysis
+# Case study
+
+A dataset containing churn data of a bank. The task is to use the data from the dataset to answer a set of questions.
 
 
 
