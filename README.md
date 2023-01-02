@@ -2,6 +2,10 @@
 
 This is a repository include Python Notebook for Bank customer churn data analysis. The task is to use the data from the dataset to answer a set of questions related to churn.
 
+## Introduction
+
+Churn represents the number of customers that have stopped using bank products or services during a given period of time. To understand the customer for better result oriented services, churn data analysis for case study is very important for authorities.
+
 ## Code run
 
 Need to keep data and file in the same folder to run the Python notebook.
@@ -28,7 +32,7 @@ Install requird python libraries by using requirements.txt
 
 ## Overview of files
 
-* case_study_churn_data.ipynb - Python Notebook for Bank customer churn data analysis.
+case_study_churn_data.ipynb - Python Notebook for Bank customer churn data analysis.
 
 
 ## Author
