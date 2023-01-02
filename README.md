@@ -24,7 +24,7 @@ The dataset contains the following columns:
 ## Installation
 Install requird python libraries by using requirements.txt
 
-pip install -r requirements.txt
+> pip install -r requirements.txt
 
 ## Overview of files
 
